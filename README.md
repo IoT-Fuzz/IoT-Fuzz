@@ -1,2 +1,2 @@
 ### 
-###### This repo includes the CVEs discovered by our research group.
+###### This repo includes the CVEs discovered by me.
